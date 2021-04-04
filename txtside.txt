@@ -1,0 +1,13 @@
+This is a university automation project. 
+There are six classes, one abstract class, five txt. 
+The common information of everyone in the university is created in the UniversityPerson abstract class. 
+In the faculty class, the unique information of the teachers in the faculty class, the unique information of the students in the Student class, the unique information of the staff in the Staff class. 
+In the main class, menu, login and register pages are created. 
+Encryption is converted to hash shape and security is increased. 
+This process is done in the hash method in main class. 
+Student class is divided into two. Degree and Master Degree. 
+The information of each person is read from the file and written to the file in their own classes. 
+While doing, File Input Stream and Output Output Stream are used. 
+The read and write methods created in these classes are called in the main class and 
+there is an ArrayList <String> type. Switch case is used. 
+Switch case operation is used while creating the menus.

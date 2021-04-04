@@ -1,0 +1,4 @@
+Meryem , Bayram , meryembayram@stu.aydin.edu.tr , 37298467351 , Computer Engineering , 3.50 , 2
+Esin , Sahin , esinsahin@stu.aydin.edu.tr , 24535675896 , Computer Engineerin , 3.57 , 2
+Merve , Tascinar , mervetascinar@stu.aydin.edu.tr , 28451296345 , Computer Engineering , 2.83 , 2
+Anil , Hacibaba , anilhacibab@stu.aydin.edu.tr , 83924719822 , Computer Engineering , 2.03 , 2
